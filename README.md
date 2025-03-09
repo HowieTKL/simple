@@ -1,2 +1,2 @@
-# simple
-Simple repository to say hello
+# hello
+Another simple repository to say hello.
